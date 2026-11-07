@@ -1,0 +1,86 @@
+# name|code|confidence  (y = known or verified, m = moderate, ? = unknown). MIX = bowled both pace and spin.
+A Symonds|MIX|y
+A Singh|RP|y
+AN Ahmed|RP|y
+K Kartikeya|SLA|y
+Brijesh Sharma|RP|y
+Shivang Kumar|LWS|y
+J Syed Mohammad|SLA|y
+Yash Raj Punja|LB|y
+DP Vijaykumar|RP|y
+RR Raje|RP|y
+S Ladda|LB|y
+P Amarnath|RP|y
+Ashok Sharma|RP|y
+Shivam Sharma|OB|y
+Ankit Soni|LB|y
+Jaskaran Singh|RP|y
+Shoaib Ahmed|RP|y
+Raghu Sharma|LB|y
+Shashank Singh|MIX|y
+AA Jhunjhunwala|OB|y
+Gagandeep Singh|RP|y
+AP Dole|RP|y
+K Goel|OB|y
+Y Nagar|OB|y
+M Tiwari|RP|y
+Abhinandan Singh|RP|y
+K Yadav|LP|y
+K Upadhyay|RP|y
+D Kalyankrishna|RP|y
+C Nanda|LB|y
+D Salunkhe|LB|y
+M Manhas|OB|y
+L Ablish|RP|y
+AUK Pathan|RP|y
+SS Mishra|LP|y
+A Uniyal|LP|y
+SR Tendulkar|MIX|y
+Krish Bhagat|RP|y
+SD Chitnis|OB|y
+R Ninan|OB|y
+RG More|RP|y
+MA Khote|RP|y
+AS Raut|LB|y
+PM Sarvesh Kumar|RP|y
+Y Prithvi Raj|LP|y
+VS Yeligati|OB|y
+SS Sarkar|RP|y
+NB Singh|RP|y
+PVSN Raju|RP|y
+R Goyal|LB|y
+SS Agarwal|LB|y
+Tejas Baroka|LB|y
+Sumit Kumar|RP|y
+MB Parmar|OB|y
+RS Ghosh|RP|y
+D Ferreira|OB|y
+DB Ravi Teja|LB|y
+RV Patel|RP|y
+Sunny Gupta|OB|y
+S Sriram|SLA|y
+N Wadhera|LB|y
+S Rana|RP|y
+FY Fazal|RP|y
+AA Kazi|SLA|y
+S Vidyut|SLA|y
+T Vijay|OB|y
+RR Bhatkal|RP|y
+Mohit Rathee|LB|y
+Sachin Baby|OB|y
+RS Gavaskar|SLA|y
+SS Mundhe|RP|y
+I Malhotra|RP|y
+B Chipli|RP|y
+RA Tripathi|RP|y
+BJ Rohrer|RP|y
+RA Shaikh|LP|y
+C Ganapathy|RP|y
+SA Yadav|OB|y
+P Prasanth|SLA|y
+Y Gnaneswara Rao|RP|y
+LA Carseldine|LP|y
+LPC Silva|LB|y
+SN Khan|LB|y
+Atharva Taide|SLA|y
+Ishan Kishan|OB|y

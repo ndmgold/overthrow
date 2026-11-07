@@ -1,0 +1,15 @@
+# Raw CricSheet download (rebuild input, not committed)
+ipl_json/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

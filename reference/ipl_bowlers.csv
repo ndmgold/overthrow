@@ -1,0 +1,577 @@
+identifier,name,scorecard_names,unique_name,key_cricinfo,balls,wickets,first,last,teams,in_register
+495d42a5,R Ashwin,R Ashwin,R Ashwin,26421,4710,187,2009,2025,Chennai Super Kings/Delhi Capitals/Punjab Kings/Rajasthan Royals/Rising Pune Supergiant,yes
+9d430b40,SP Narine,SP Narine,SP Narine,230558,4651,207,2012,2026,Kolkata Knight Riders,yes
+2e81a32d,B Kumar,B Kumar,B Kumar,326016,4600,226,2011,2026,Pune Warriors/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+fe93fd9d,RA Jadeja,RA Jadeja,RA Jadeja,234675,4254,180,2008,2026,Chennai Super Kings/Gujarat Lions/Kochi Tuskers Kerala/Rajasthan Royals,yes
+57ee1fde,YS Chahal,YS Chahal,YS Chahal,430246,4037,233,2013,2026,Mumbai Indians/Punjab Kings/Rajasthan Royals/Royal Challengers Bengaluru,yes
+98ae73b1,PP Chawla,PP Chawla,PP Chawla,32966,3850,192,2008,2024,Chennai Super Kings/Kolkata Knight Riders/Mumbai Indians/Punjab Kings,yes
+462411b3,JJ Bumrah,JJ Bumrah,JJ Bumrah,625383,3631,187,2013,2026,Mumbai Indians,yes
+2e171977,AR Patel,AR Patel,AR Patel,554691,3567,139,2014,2026,Delhi Capitals/Punjab Kings,yes
+5f547c8b,Rashid Khan,Rashid Khan,Rashid Khan,793463,3530,179,2017,2026,Gujarat Titans/Sunrisers Hyderabad,yes
+8b5b6769,Harbhajan Singh,Harbhajan Singh,Harbhajan Singh,29264,3416,150,2008,2021,Chennai Super Kings/Kolkata Knight Riders/Mumbai Indians,yes
+6b19d823,A Mishra,A Mishra,A Mishra,31107,3371,174,2008,2024,Deccan Chargers/Delhi Capitals/Lucknow Super Giants/Sunrisers Hyderabad,yes
+ce820073,Sandeep Sharma,Sandeep Sharma,Sandeep Sharma,438362,3159,151,2013,2026,Punjab Kings/Rajasthan Royals/Sunrisers Hyderabad,yes
+87e562a9,DJ Bravo,DJ Bravo,DJ Bravo,51439,3120,183,2008,2022,Chennai Super Kings/Gujarat Lions/Mumbai Indians,yes
+cc1e8c68,UT Yadav,UT Yadav,UT Yadav,376116,3050,144,2010,2024,Delhi Capitals/Gujarat Titans/Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+8cf9814c,Mohammed Shami,Mohammed Shami,Mohammed Shami,481896,2912,145,2013,2026,Delhi Capitals/Gujarat Titans/Kolkata Knight Riders/Lucknow Super Giants/Punjab Kings/Sunrisers Hyderabad,yes
+a12e1d51,SL Malinga,SL Malinga,SL Malinga,49758,2827,170,2009,2019,Mumbai Indians,yes
+a818c1be,TA Boult,TA Boult,TA Boult,277912,2780,145,2015,2026,Delhi Capitals/Kolkata Knight Riders/Mumbai Indians/Rajasthan Royals/Sunrisers Hyderabad,yes
+5b8c830e,KH Pandya,KH Pandya,KH Pandya,471342,2701,107,2016,2026,Lucknow Super Giants/Mumbai Indians/Royal Challengers Bengaluru,yes
+2f49c897,Mohammed Siraj,Mohammed Siraj,Mohammed Siraj,940973,2672,128,2017,2026,Gujarat Titans/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+e938e1bc,P Kumar,P Kumar,P Kumar,30732,2524,90,2008,2017,Gujarat Lions/Mumbai Indians/Punjab Kings/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+f986ca1a,HV Patel,HV Patel,HV Patel,390481,2506,151,2012,2026,Delhi Capitals/Punjab Kings/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+5bb1a1c4,I Sharma,I Sharma,I Sharma,236779,2419,96,2008,2025,Deccan Chargers/Delhi Capitals/Gujarat Titans/Kolkata Knight Riders/Punjab Kings/Rising Pune Supergiant/Sunrisers Hyderabad,yes
+759ac88f,MM Sharma,MM Sharma,MM Sharma,537119,2403,134,2013,2025,Chennai Super Kings/Delhi Capitals/Gujarat Titans/Punjab Kings,yes
+1e66c162,JD Unadkat,JD Unadkat,JD Unadkat,390484,2351,114,2010,2026,Delhi Capitals/Kolkata Knight Riders/Lucknow Super Giants/Mumbai Indians/Rajasthan Royals/Rising Pune Supergiant/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+e62dd25d,K Rabada,K Rabada,K Rabada,550215,2290,148,2017,2026,Delhi Capitals/Gujarat Titans/Punjab Kings,yes
+8d2c70ad,Kuldeep Yadav,Kuldeep Yadav,Kuldeep Yadav,559235,2274,112,2016,2026,Delhi Capitals/Kolkata Knight Riders,yes
+1abb78f8,SN Thakur,SN Thakur,SN Thakur,475281,2202,119,2015,2026,Chennai Super Kings/Delhi Capitals/Kolkata Knight Riders/Lucknow Super Giants/Mumbai Indians/Punjab Kings/Rising Pune Supergiant,yes
+91a4a398,Z Khan,Z Khan,Z Khan,30102,2200,102,2008,2017,Delhi Capitals/Mumbai Indians/Royal Challengers Bengaluru,yes
+8fd1a8f5,DW Steyn,DW Steyn,DW Steyn,47492,2176,97,2008,2020,Deccan Chargers/Gujarat Lions/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+5b7ab5a9,CV Varun,CV Varun,CV Varun,1108375,2134,111,2019,2026,Kolkata Knight Riders/Punjab Kings,yes
+41eb4a4f,R Vinay Kumar,R Vinay Kumar,R Vinay Kumar,35731,2121,105,2008,2018,Kochi Tuskers Kerala/Kolkata Knight Riders/Mumbai Indians/Royal Challengers Bengaluru,yes
+23eeb873,DL Chahar,DL Chahar,DL Chahar,447261,2068,96,2016,2026,Chennai Super Kings/Mumbai Indians/Rising Pune Supergiant,yes
+5fa06777,IK Pathan,IK Pathan,IK Pathan,32685,2043,80,2008,2017,Delhi Capitals/Gujarat Lions/Punjab Kings/Rising Pune Supergiant/Sunrisers Hyderabad,yes
+244048f6,Arshdeep Singh,Arshdeep Singh,Arshdeep Singh,1125976,2032,111,2019,2026,Punjab Kings,yes
+4329fbb5,SR Watson,SR Watson,SR Watson,8180,2029,92,2008,2018,Chennai Super Kings/Rajasthan Royals/Royal Challengers Bengaluru,yes
+96fd40ae,A Nehra,A Nehra,A Nehra,31820,1908,106,2008,2017,Chennai Super Kings/Delhi Capitals/Mumbai Indians/Pune Warriors/Sunrisers Hyderabad,yes
+6c6591ab,PP Ojha,PP Ojha,PP Ojha,32130,1899,89,2008,2015,Deccan Chargers/Mumbai Indians,yes
+ded9240e,PJ Cummins,PJ Cummins,PJ Cummins,489889,1809,87,2014,2026,Delhi Capitals/Kolkata Knight Riders/Sunrisers Hyderabad,yes
+bbd41817,AD Russell,AD Russell,AD Russell,276298,1806,123,2012,2025,Delhi Capitals/Kolkata Knight Riders,yes
+df064e1a,Ravi Bishnoi,Ravi Bishnoi,Ravi Bishnoi,1175441,1789,83,2020,2026,Lucknow Super Giants/Punjab Kings/Rajasthan Royals,yes
+d2a989fc,DS Kulkarni,DS Kulkarni,DS Kulkarni,277955,1787,86,2008,2021,Gujarat Lions/Mumbai Indians/Rajasthan Royals,yes
+c3d1402f,RP Singh,RP Singh,RP Singh,35280,1775,90,2008,2016,Deccan Chargers/Kochi Tuskers Kerala/Mumbai Indians/Rising Pune Supergiant/Royal Challengers Bengaluru,yes
+eef2536f,Avesh Khan,Avesh Khan,Avesh Khan,694211,1767,93,2017,2026,Delhi Capitals/Lucknow Super Giants/Rajasthan Royals/Royal Challengers Bengaluru,yes
+dbe50b21,HH Pandya,HH Pandya,HH Pandya,625371,1764,82,2015,2026,Gujarat Titans/Mumbai Indians,yes
+86dc8f2e,JH Kallis,JH Kallis,JH Kallis,45789,1742,65,2008,2014,Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+85e0cf10,M Prasidh Krishna,M Prasidh Krishna,M Prasidh Krishna,917159,1733,90,2018,2026,Gujarat Titans/Kolkata Knight Riders/Rajasthan Royals,yes
+c3d35165,JA Morkel,JA Morkel,JA Morkel,46248,1723,85,2008,2016,Chennai Super Kings/Delhi Capitals/Rising Pune Supergiant/Royal Challengers Bengaluru,yes
+fb66ce1f,CH Morris,CH Morris,CH Morris,439952,1720,95,2013,2021,Chennai Super Kings/Delhi Capitals/Rajasthan Royals/Royal Challengers Bengaluru,yes
+2ed569a0,RD Chahar,RD Chahar,RD Chahar,1064812,1694,75,2017,2026,Chennai Super Kings/Mumbai Indians/Punjab Kings/Rising Pune Supergiant/Sunrisers Hyderabad,yes
+a2f46292,KK Ahmed,KK Ahmed,KK Ahmed,942645,1657,91,2018,2026,Chennai Super Kings/Delhi Capitals/Sunrisers Hyderabad,yes
+33a364a6,R Bhatia,R Bhatia,R Bhatia,26907,1636,71,2008,2017,Delhi Capitals/Kolkata Knight Riders/Rajasthan Royals/Rising Pune Supergiant,yes
+5bb5a915,M Morkel,M Morkel,M Morkel,46538,1629,77,2009,2016,Delhi Capitals/Kolkata Knight Riders/Rajasthan Royals,yes
+119678fd,KV Sharma,KV Sharma,KV Sharma,30288,1585,83,2013,2025,Chennai Super Kings/Mumbai Indians/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+5574750c,JC Archer,JC Archer,JC Archer,669855,1578,84,2018,2026,Mumbai Indians/Rajasthan Royals,yes
+ce794613,T Natarajan,T Natarajan,T Natarajan,802575,1546,72,2017,2026,Delhi Capitals/Punjab Kings/Sunrisers Hyderabad,yes
+4ba44e19,M Muralitharan,M Muralitharan,M Muralitharan,49636,1524,63,2008,2014,Chennai Super Kings/Kochi Tuskers Kerala/Royal Challengers Bengaluru,yes
+66b30f71,AB Dinda,AB Dinda,AB Dinda,227712,1516,69,2008,2017,Delhi Capitals/Kolkata Knight Riders/Pune Warriors/Rising Pune Supergiant/Royal Challengers Bengaluru,yes
+b2b50355,L Balaji,L Balaji,L Balaji,26829,1512,76,2008,2014,Chennai Super Kings/Kolkata Knight Riders/Punjab Kings,yes
+3d7e087f,SK Trivedi,SK Trivedi,SK Trivedi,35353,1506,65,2008,2013,Rajasthan Royals,yes
+a757b0d8,KA Pollard,KA Pollard,KA Pollard,230559,1488,69,2010,2022,Mumbai Indians,yes
+7dc35884,Shakib Al Hasan,Shakib Al Hasan,Shakib Al Hasan,56143,1484,63,2011,2021,Kolkata Knight Riders/Sunrisers Hyderabad,yes
+9d80c5e1,S Nadeem,S Nadeem,S Nadeem,31872,1415,48,2011,2021,Delhi Capitals/Sunrisers Hyderabad,yes
+0a8fce53,Mustafizur Rahman,Mustafizur Rahman,Mustafizur Rahman,330902,1364,65,2016,2025,Chennai Super Kings/Delhi Capitals/Mumbai Indians/Rajasthan Royals/Sunrisers Hyderabad,yes
+f0f628c7,MM Patel,MM Patel,MM Patel,32965,1355,74,2008,2017,Gujarat Lions/Mumbai Indians/Rajasthan Royals,yes
+acee4cc4,Imran Tahir,Imran Tahir,Imran Tahir,40618,1316,82,2014,2021,Chennai Super Kings/Delhi Capitals/Rising Pune Supergiant,yes
+51a3c5ef,MJ McClenaghan,MJ McClenaghan,MJ McClenaghan,319439,1274,71,2015,2019,Mumbai Indians,yes
+e94915e6,SM Curran,SM Curran,SM Curran,662973,1253,59,2019,2025,Chennai Super Kings/Punjab Kings,yes
+f5180fe6,MG Johnson,MG Johnson,MG Johnson,6033,1232,61,2013,2018,Kolkata Knight Riders/Mumbai Indians/Punjab Kings,yes
+808f425a,JP Faulkner,JP Faulkner,JP Faulkner,270484,1227,59,2011,2017,Gujarat Lions/Pune Warriors/Punjab Kings/Rajasthan Royals,yes
+0f721006,JO Holder,JO Holder,JO Holder,391485,1225,70,2013,2026,Chennai Super Kings/Gujarat Titans/Kolkata Knight Riders/Lucknow Super Giants/Rajasthan Royals/Sunrisers Hyderabad,yes
+dcf81436,S Kaul,S Kaul,S Kaul,326017,1209,58,2013,2022,Delhi Capitals/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+13c35c9e,TG Southee,TG Southee,TG Southee,232364,1206,47,2011,2023,Chennai Super Kings/Kolkata Knight Riders/Mumbai Indians/Rajasthan Royals/Royal Challengers Bengaluru,yes
+bb18be76,SK Warne,SK Warne,SK Warne,8166,1194,57,2008,2011,Rajasthan Royals,yes
+3fb19989,MA Starc,MA Starc,MA Starc,311592,1179,76,2014,2026,Delhi Capitals/Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+03806cf8,JR Hazlewood,JR Hazlewood,JR Hazlewood,288284,1176,72,2020,2026,Chennai Super Kings/Royal Challengers Bengaluru,yes
+f19ccfad,Washington Sundar,Washington Sundar,Washington Sundar,719715,1174,40,2017,2026,Gujarat Titans/Rising Pune Supergiant/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+abfeb126,M Kartik,M Kartik,M Kartik,30049,1149,31,2008,2014,Kolkata Knight Riders/Pune Warriors/Punjab Kings/Royal Challengers Bengaluru,yes
+3c6ffae8,YK Pathan,YK Pathan,YK Pathan,32498,1147,42,2008,2019,Kolkata Knight Riders/Rajasthan Royals/Sunrisers Hyderabad,yes
+acdc62f5,A Nortje,A Nortje,A Nortje,481979,1120,61,2020,2026,Delhi Capitals/Kolkata Knight Riders/Lucknow Super Giants,yes
+46a9bea1,TU Deshpande,TU Deshpande,TU Deshpande,822553,1103,55,2020,2026,Chennai Super Kings/Delhi Capitals/Rajasthan Royals,yes
+efc04be7,Noor Ahmad,Noor Ahmad,Noor Ahmad,1182529,1098,61,2023,2026,Chennai Super Kings/Gujarat Titans,yes
+2f9d0389,LH Ferguson,LH Ferguson,LH Ferguson,493773,1089,52,2017,2026,Gujarat Titans/Kolkata Knight Riders/Punjab Kings/Rising Pune Supergiant/Royal Challengers Bengaluru,yes
+c8179c68,SB Jakati,SB Jakati,SB Jakati,29655,1085,47,2009,2017,Chennai Super Kings/Gujarat Lions/Royal Challengers Bengaluru,yes
+b681e71e,GJ Maxwell,GJ Maxwell,GJ Maxwell,325026,1022,41,2012,2025,Delhi Capitals/Mumbai Indians/Punjab Kings/Royal Challengers Bengaluru,yes
+81c36ee9,M Jansen,M Jansen,M Jansen,696401,1017,45,2021,2026,Mumbai Indians/Punjab Kings/Sunrisers Hyderabad,yes
+0a3d54b9,VR Aaron,VR Aaron,VR Aaron,360911,994,44,2011,2022,Delhi Capitals/Gujarat Titans/Punjab Kings/Rajasthan Royals/Royal Challengers Bengaluru,yes
+7a8bd078,S Gopal,S Gopal,S Gopal,344580,991,52,2014,2024,Mumbai Indians/Rajasthan Royals/Sunrisers Hyderabad,yes
+0c2730df,A Kumble,A Kumble,A Kumble,30176,965,45,2008,2010,Royal Challengers Bengaluru,yes
+32198ae0,MC Henriques,MC Henriques,MC Henriques,5961,950,42,2009,2021,Delhi Capitals/Kolkata Knight Riders/Punjab Kings/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+d9273ee7,MP Stoinis,MP Stoinis,MP Stoinis,325012,935,46,2016,2026,Delhi Capitals/Lucknow Super Giants/Punjab Kings/Royal Challengers Bengaluru,yes
+5d9a1a73,R Sharma,R Sharma,R Sharma,272994,928,40,2010,2014,Deccan Chargers/Delhi Capitals/Pune Warriors,yes
+85aae393,Iqbal Abdulla,Iqbal Abdulla,Iqbal Abdulla,277237,920,40,2008,2017,Kolkata Knight Riders/Rajasthan Royals/Royal Challengers Bengaluru,yes
+1dc12ab9,SK Raina,SK Raina,SK Raina,33335,908,25,2008,2019,Chennai Super Kings/Gujarat Lions,yes
+ae78bc32,MS Gony,MS Gony,MS Gony,317293,888,37,2008,2017,Chennai Super Kings/Deccan Chargers/Gujarat Lions/Punjab Kings,yes
+2a2e6343,DT Christian,DT Christian,DT Christian,4864,883,38,2011,2021,Deccan Chargers/Delhi Capitals/Rising Pune Supergiant/Royal Challengers Bengaluru,yes
+6b8eb6e5,S Sreesanth,S Sreesanth,S Sreesanth,34274,880,40,2008,2013,Kochi Tuskers Kerala/Punjab Kings/Rajasthan Royals,yes
+f24c6701,M Theekshana,M Theekshana,M Theekshana,1138316,876,36,2022,2025,Chennai Super Kings/Rajasthan Royals,yes
+dd09ff8e,B Lee,B Lee,B Lee,6278,875,25,2008,2013,Kolkata Knight Riders/Punjab Kings,yes
+7210d461,Yash Dayal,Yash Dayal,Yash Dayal,1159720,871,41,2022,2025,Gujarat Titans/Royal Challengers Bengaluru,yes
+e2db2409,M Ashwin,M Ashwin,M Ashwin,528067,870,35,2016,2023,Mumbai Indians/Punjab Kings/Rajasthan Royals/Rising Pune Supergiant/Royal Challengers Bengaluru,yes
+1c914163,Yuvraj Singh,Yuvraj Singh,Yuvraj Singh,36084,869,36,2008,2018,Delhi Capitals/Pune Warriors/Punjab Kings/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+7c3b3b78,VG Arora,VG Arora,VG Arora,1209292,866,47,2022,2026,Kolkata Knight Riders/Punjab Kings,yes
+c05edf8e,Harpreet Brar,Harpreet Brar,Harpreet Brar,1168641,859,37,2019,2026,Punjab Kings,yes
+56ab442f,NM Coulter-Nile,NM Coulter-Nile,NM Coulter-Nile,261354,857,48,2013,2022,Delhi Capitals/Kolkata Knight Riders/Mumbai Indians/Rajasthan Royals,yes
+9fc0ef64,PJ Sangwan,PJ Sangwan,PJ Sangwan,279545,856,38,2008,2022,Delhi Capitals/Gujarat Lions/Gujarat Titans/Kolkata Knight Riders/Mumbai Indians,yes
+bb351c23,MM Ali,MM Ali,MM Ali,8917,854,41,2018,2025,Chennai Super Kings/Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+39a2dfa8,R Tewatia,R Tewatia,R Tewatia,423838,843,32,2014,2023,Delhi Capitals/Gujarat Titans/Punjab Kings/Rajasthan Royals,yes
+12eddf28,RJ Harris,RJ Harris,RJ Harris,5779,832,45,2009,2013,Deccan Chargers/Punjab Kings,yes
+2cffab74,Mukesh Kumar,Mukesh Kumar,Mukesh Kumar,926851,824,42,2023,2026,Delhi Capitals,yes
+9440ef41,Suyash Sharma,Suyash Sharma,Suyash Sharma,1350792,803,27,2023,2026,Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+a97c8ec2,PWH de Silva,PWH de Silva,PWH de Silva,784379,798,46,2021,2025,Rajasthan Royals/Royal Challengers Bengaluru,yes
+896d78ad,AD Mathews,AD Mathews,AD Mathews,49764,791,27,2009,2017,Delhi Capitals/Kolkata Knight Riders/Pune Warriors,yes
+fa463154,AB Agarkar,AB Agarkar,AB Agarkar,26184,782,29,2008,2013,Delhi Capitals/Kolkata Knight Riders,yes
+d7c6af50,DL Vettori,DL Vettori,DL Vettori,38710,777,28,2008,2012,Delhi Capitals/Royal Challengers Bengaluru,yes
+957532de,S Aravind,S Aravind,S Aravind,290632,760,45,2011,2017,Royal Challengers Bengaluru,yes
+a9fd84fb,M Markande,M Markande,M Markande,1081442,750,37,2018,2026,Mumbai Indians/Rajasthan Royals/Sunrisers Hyderabad,yes
+1a0c3177,P Awana,P Awana,P Awana,323131,747,39,2012,2014,Punjab Kings,yes
+5d2eea49,Kartik Tyagi,Kartik Tyagi,Kartik Tyagi,1122918,728,33,2020,2026,Gujarat Titans/Kolkata Knight Riders/Rajasthan Royals/Sunrisers Hyderabad,yes
+3a60e0b5,WD Parnell,WD Parnell,WD Parnell,265564,723,35,2011,2023,Delhi Capitals/Pune Warriors/Royal Challengers Bengaluru,yes
+f62772e5,P Negi,P Negi,P Negi,530773,716,34,2012,2019,Chennai Super Kings/Delhi Capitals/Royal Challengers Bengaluru,yes
+64839cb3,M Pathirana,M Pathirana,M Pathirana,1194795,710,47,2022,2026,Chennai Super Kings/Kolkata Knight Riders,yes
+0f12f9df,NLTC Perera,NLTC Perera,NLTC Perera,233514,698,31,2010,2016,Chennai Super Kings/Kochi Tuskers Kerala/Mumbai Indians/Punjab Kings/Rising Pune Supergiant/Sunrisers Hyderabad,yes
+7c503806,J Botha,J Botha,J Botha,44149,694,25,2009,2015,Delhi Capitals/Kolkata Knight Riders/Rajasthan Royals,yes
+e087956b,BA Stokes,BA Stokes,BA Stokes,311158,689,28,2017,2023,Chennai Super Kings/Rajasthan Royals/Rising Pune Supergiant,yes
+e4a0deae,MJ Santner,MJ Santner,MJ Santner,502714,687,30,2019,2026,Chennai Super Kings/Mumbai Indians,yes
+7c7d63a2,AJ Tye,AJ Tye,AJ Tye,459508,684,42,2017,2022,Gujarat Lions/Lucknow Super Giants/Punjab Kings/Rajasthan Royals,yes
+2e8994e7,JP Duminy,JP Duminy,JP Duminy,44932,678,23,2009,2018,Deccan Chargers/Delhi Capitals/Mumbai Indians,yes
+21d4e29b,NA Saini,NA Saini;Navdeep Saini,NA Saini,700167,676,23,2019,2026,Kolkata Knight Riders/Rajasthan Royals/Royal Challengers Bengaluru,yes
+ffe699c0,CJ Jordan,CJ Jordan,CJ Jordan,288992,668,30,2016,2023,Chennai Super Kings/Mumbai Indians/Punjab Kings/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+26a85969,R Dhawan,R Dhawan,R Dhawan,290727,662,25,2013,2024,Mumbai Indians/Punjab Kings,yes
+6aed7e79,PV Tambe,PV Tambe,PV Tambe,587152,660,28,2013,2016,Gujarat Lions/Rajasthan Royals,yes
+f9e6e7ef,Shahbaz Ahmed,Shahbaz Ahmed,Shahbaz Ahmed,1159711,655,27,2020,2026,Lucknow Super Giants/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+c33d8116,Mohsin Khan,Mohsin Khan,Mohsin Khan (2),1132005,654,38,2022,2026,Lucknow Super Giants,yes
+77b1aa15,Harshit Rana,Harshit Rana,Harshit Rana,1312645,649,40,2022,2025,Kolkata Knight Riders,yes
+c38d3503,Shivam Mavi,Shivam Mavi,Shivam Mavi,1079848,649,30,2018,2022,Kolkata Knight Riders,yes
+c404f58a,DP Nannes,DP Nannes,DP Nannes,6981,646,28,2009,2013,Chennai Super Kings/Delhi Capitals/Royal Challengers Bengaluru,yes
+f834dcfc,L Ngidi,L Ngidi,L Ngidi,542023,620,42,2018,2026,Chennai Super Kings/Delhi Capitals/Royal Challengers Bengaluru,yes
+bd17b45f,STR Binny,STR Binny,STR Binny,27223,594,22,2010,2019,Mumbai Indians/Rajasthan Royals/Royal Challengers Bengaluru,yes
+90de905a,K Gowtham,K Gowtham,K Gowtham,424377,588,21,2018,2024,Lucknow Super Giants/Punjab Kings/Rajasthan Royals,yes
+45c2196c,DE Bollinger,DE Bollinger,DE Bollinger,4508,576,37,2010,2012,Chennai Super Kings,yes
+557153ca,KK Cooper,KK Cooper,KK Cooper,371814,576,33,2012,2014,Rajasthan Royals,yes
+eaa76d3c,C Green,C Green,C Green,1076713,571,23,2023,2026,Kolkata Knight Riders/Mumbai Indians/Royal Challengers Bengaluru,yes
+3d8feaf8,MR Marsh,MR Marsh,MR Marsh,272450,560,37,2010,2024,Deccan Chargers/Delhi Capitals/Pune Warriors/Rising Pune Supergiant/Sunrisers Hyderabad,yes
+db584dad,CH Gayle,CH Gayle,CH Gayle,51880,554,18,2009,2020,Kolkata Knight Riders/Punjab Kings/Royal Challengers Bengaluru,yes
+13fc5c6d,DS Rathi,DS Rathi,DS Rathi,1460529,546,19,2025,2026,Lucknow Super Giants,yes
+35205dfc,DR Smith,DR Smith,DR Smith,53118,539,26,2008,2017,Chennai Super Kings/Deccan Chargers/Gujarat Lions/Mumbai Indians,yes
+9a158001,Azhar Mahmood,Azhar Mahmood,Azhar Mahmood,39024,537,29,2012,2015,Kolkata Knight Riders/Punjab Kings,yes
+db31895a,AS Rajpoot,AS Rajpoot,AS Rajpoot,591650,529,24,2013,2020,Chennai Super Kings/Kolkata Knight Riders/Punjab Kings/Rajasthan Royals,yes
+bd77eb62,A Symonds,A Symonds,A Symonds,7702,527,20,2008,2011,Deccan Chargers/Mumbai Indians,yes
+2a72fd4f,Harmeet Singh,Harmeet Singh,Harmeet Singh,391128,525,26,2009,2013,Deccan Chargers/Punjab Kings,yes
+871e9faf,Basil Thampi,Basil Thampi,Basil Thampi,732291,521,22,2017,2022,Gujarat Lions/Mumbai Indians/Sunrisers Hyderabad,yes
+54e52590,Vijaykumar Vyshak,Vijaykumar Vyshak,Vijaykumar Vyshak,777815,519,26,2023,2026,Punjab Kings/Royal Challengers Bengaluru,yes
+81c08fa3,Umran Malik,Umran Malik,Umran Malik,1246528,493,29,2021,2024,Sunrisers Hyderabad,yes
+fcc21ace,A Kamboj,A Kamboj,A Kamboj,1175428,491,31,2024,2026,Chennai Super Kings/Mumbai Indians,yes
+b8527c3d,Rasikh Salam,Rasikh Salam,Rasikh Salam,1161489,488,29,2019,2026,Delhi Capitals/Kolkata Knight Riders/Mumbai Indians/Royal Challengers Bengaluru,yes
+5750bcb4,E Malinga,E Malinga,E Malinga,1306214,486,33,2025,2026,Sunrisers Hyderabad,yes
+d8b2f218,BB Sran,BB Sran,BB Sran,537126,483,18,2015,2019,Mumbai Indians/Punjab Kings/Rajasthan Royals/Sunrisers Hyderabad,yes
+765a4731,Mukesh Choudhary,Mukesh Choudhary,Mukesh Choudhary,1125688,483,25,2022,2026,Chennai Super Kings,yes
+addfb70e,SW Tait,SW Tait,SW Tait,8076,473,23,2010,2013,Rajasthan Royals,yes
+5b040b81,A Singh,A Singh,A Singh,26789,473,28,2009,2012,Rajasthan Royals,yes
+14f96089,A Zampa,A Zampa,A Zampa,379504,467,31,2016,2025,Rajasthan Royals/Rising Pune Supergiant/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+4b31f3a3,Yash Thakur,Yash Thakur,Yash Thakur,1070196,467,27,2023,2026,Lucknow Super Giants/Punjab Kings,yes
+c7a995d3,R Sai Kishore,R Sai Kishore,R Sai Kishore,1048739,465,33,2022,2026,Gujarat Titans,yes
+e0407c01,IC Pandey,IC Pandey,IC Pandey,447439,462,18,2013,2015,Chennai Super Kings/Pune Warriors,yes
+f708a0bc,GB Hogg,GB Hogg,GB Hogg,5681,458,23,2012,2016,Kolkata Knight Riders/Rajasthan Royals,yes
+80b2fb19,Prince Yadav,Prince Yadav,Prince Yadav,1350768,449,19,2025,2026,Lucknow Super Giants,yes
+7d92277a,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Mujeeb Ur Rahman,974109,446,20,2018,2025,Mumbai Indians/Punjab Kings/Sunrisers Hyderabad,yes
+2cdce1be,C Sakariya,C Sakariya,C Sakariya,1131754,444,20,2021,2025,Delhi Capitals/Kolkata Knight Riders/Rajasthan Royals,yes
+05c2ca46,RE van der Merwe,RE van der Merwe,RE van der Merwe,47850,443,21,2009,2013,Delhi Capitals/Royal Challengers Bengaluru,yes
+4c5d73db,CR Woakes,CR Woakes,CR Woakes,247235,440,30,2017,2021,Delhi Capitals/Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+b0946605,AS Joseph,AS Joseph,AS Joseph,670031,434,21,2019,2024,Gujarat Titans/Mumbai Indians/Royal Challengers Bengaluru,yes
+c18496e1,Bipul Sharma,Bipul Sharma,Bipul Sharma,35928,426,17,2010,2017,Punjab Kings/Sunrisers Hyderabad,yes
+5d096f3d,RR Powar,RR Powar,RR Powar,32391,426,13,2008,2012,Kochi Tuskers Kerala/Punjab Kings,yes
+4125d931,J Suchith,J Suchith,J Suchith,527663,420,19,2015,2022,Delhi Capitals/Mumbai Indians/Sunrisers Hyderabad,yes
+ab89348d,MF Maharoof,MF Maharoof,MF Maharoof,49638,420,27,2008,2010,Delhi Capitals,yes
+62af8546,Mohammad Nabi,Mohammad Nabi,Mohammad Nabi,25913,417,15,2017,2024,Mumbai Indians/Sunrisers Hyderabad,yes
+69be866a,Anureet Singh,Anureet Singh,Anureet Singh,376324,412,18,2009,2018,Kolkata Knight Riders/Punjab Kings/Rajasthan Royals,yes
+81049310,J Yadav,J Yadav,J Yadav,447587,390,8,2015,2023,Delhi Capitals/Gujarat Titans/Mumbai Indians,yes
+64775749,RP Meredith,RP Meredith,RP Meredith,961713,388,19,2021,2023,Mumbai Indians/Punjab Kings,yes
+c0c411cb,Naveen-ul-Haq,Naveen-ul-Haq,Naveen-ul-Haq,793447,387,25,2023,2024,Lucknow Super Giants,yes
+327b58d3,PVD Chameera,PVD Chameera,PVD Chameera,552152,384,13,2022,2026,Delhi Capitals/Kolkata Knight Riders/Lucknow Super Giants,yes
+73ad96ed,DJ Hooda,DJ Hooda,DJ Hooda,497121,379,10,2015,2025,Chennai Super Kings/Lucknow Super Giants/Punjab Kings/Rajasthan Royals/Sunrisers Hyderabad,yes
+9eb1455b,NT Ellis,NT Ellis,NT Ellis,826915,378,19,2021,2025,Chennai Super Kings/Punjab Kings,yes
+12314277,Arshad Khan,Arshad Khan;Arshad Khan (2),Arshad Khan (2),1244751,376,18,2023,2026,Gujarat Titans/Lucknow Super Giants/Mumbai Indians,yes
+f3171936,BW Hilfenhaus,BW Hilfenhaus,BW Hilfenhaus,5941,372,22,2012,2014,Chennai Super Kings,yes
+24d94623,Ankit Sharma,Ankit Sharma,Ankit Sharma,422992,367,12,2012,2018,Deccan Chargers/Rajasthan Royals/Rising Pune Supergiant/Sunrisers Hyderabad,yes
+4933f499,JP Behrendorff,JP Behrendorff,JP Behrendorff,272477,366,19,2019,2023,Mumbai Indians,yes
+f29185a1,Abhishek Sharma,Abhishek Sharma,Abhishek Sharma,1070183,365,11,2019,2026,Sunrisers Hyderabad,yes
+465aa633,N Burger,N Burger,N Burger,971349,363,21,2024,2026,Rajasthan Royals,yes
+034b4b7d,VRV Singh,VRV Singh,VRV Singh,35281,360,12,2008,2010,Punjab Kings,yes
+2498e163,JR Hopes,JR Hopes,JR Hopes,5702,360,14,2008,2011,Delhi Capitals/Punjab Kings,yes
+caf69bf7,DR Sams,DR Sams,DR Sams,826901,360,14,2020,2022,Delhi Capitals/Mumbai Indians/Royal Challengers Bengaluru,yes
+c5aef772,R Shepherd,R Shepherd,R Shepherd,677077,360,17,2022,2026,Mumbai Indians/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+c654af19,R McLaren,R McLaren,R McLaren,46393,354,12,2010,2013,Kolkata Knight Riders/Mumbai Indians/Punjab Kings,yes
+8f6dd463,Azmatullah Omarzai,Azmatullah Omarzai,Azmatullah Omarzai,819429,354,15,2024,2026,Gujarat Titans/Punjab Kings,yes
+4bd09374,Akash Madhwal,Akash Madhwal,Akash Madhwal,1206039,352,23,2023,2025,Mumbai Indians/Rajasthan Royals,yes
+2af1b6d2,AN Ahmed,AN Ahmed,AN Ahmed,228430,344,12,2010,2015,Mumbai Indians/Royal Challengers Bengaluru,yes
+740742ef,RG Sharma,RG Sharma,RG Sharma,34102,339,15,2008,2021,Deccan Chargers/Mumbai Indians,yes
+93a17209,VY Mahesh,VY Mahesh,VY Mahesh,31732,339,21,2008,2012,Chennai Super Kings/Delhi Capitals,yes
+dfc4d8b5,KW Richardson,KW Richardson,KW Richardson,272262,335,19,2013,2021,Pune Warriors/Rajasthan Royals/Royal Challengers Bengaluru,yes
+aad0c365,Nithish Kumar Reddy,Nithish Kumar Reddy,Nithish Kumar Reddy,1175496,325,13,2023,2026,Sunrisers Hyderabad,yes
+ee7d0c82,GD McGrath,GD McGrath,GD McGrath,6565,324,12,2008,2008,Delhi Capitals,yes
+e4cdf230,AS Roy,AS Roy,AS Roy,1079839,323,15,2019,2026,Kolkata Knight Riders/Mumbai Indians,yes
+04a418e8,R Parag,R Parag,R Parag,1079434,319,9,2019,2026,Rajasthan Royals,yes
+fd835ab3,DJ Hussey,DJ Hussey,DJ Hussey,5766,317,8,2008,2014,Chennai Super Kings/Kolkata Knight Riders/Punjab Kings,yes
+b552a935,AC Thomas,AC Thomas,AC Thomas,47569,315,14,2011,2012,Pune Warriors,yes
+b1451597,LR Shukla,LR Shukla,LR Shukla,34019,314,15,2008,2014,Delhi Capitals/Kolkata Knight Riders,yes
+50c6bc2b,LS Livingstone,LS Livingstone,LS Livingstone,403902,312,13,2019,2025,Punjab Kings/Rajasthan Royals/Royal Challengers Bengaluru,yes
+3edb58fc,AD Mascarenhas,AD Mascarenhas,AD Mascarenhas,16932,308,19,2008,2013,Punjab Kings/Rajasthan Royals,yes
+68c56d09,KA Jamieson,KA Jamieson,KA Jamieson,625960,300,16,2021,2026,Delhi Capitals/Punjab Kings/Royal Challengers Bengaluru,yes
+e32d22f6,Pankaj Singh,Pankaj Singh,Pankaj Singh,32973,300,11,2008,2012,Rajasthan Royals/Royal Challengers Bengaluru,yes
+8abdf100,CJ Anderson,CJ Anderson,CJ Anderson,277662,297,11,2014,2018,Delhi Capitals/Mumbai Indians/Royal Challengers Bengaluru,yes
+dc4686e6,BA Bhatt,BA Bhatt,BA Bhatt,433410,296,12,2011,2013,Punjab Kings,yes
+aa8d28ae,D Wiese,D Wiese,D Wiese,221140,296,16,2015,2023,Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+f233bbb4,ST Jayasuriya,ST Jayasuriya,ST Jayasuriya,49209,294,13,2008,2010,Mumbai Indians,yes
+66cf56a5,A Mithun,A Mithun,A Mithun,310958,288,7,2009,2013,Royal Challengers Bengaluru,yes
+ad427b5c,Lalit Yadav,Lalit Yadav,Lalit Yadav,930189,288,10,2021,2024,Delhi Capitals,yes
+5ffc0565,V Nigam,V Nigam,V Nigam,1449074,288,13,2025,2026,Delhi Capitals,yes
+f6d8a7ab,K Kartikeya,K Kartikeya,K Kartikeya,1159843,282,12,2022,2025,Mumbai Indians/Rajasthan Royals,yes
+2049f3a0,SJ Srivastava,SJ Srivastava,SJ Srivastava,34245,282,14,2010,2011,Punjab Kings,yes
+bcce309e,WPUJC Vaas,WPUJC Vaas,WPUJC Vaas,50804,282,18,2008,2010,Deccan Chargers,yes
+2e11c706,BCJ Cutting,BCJ Cutting,BCJ Cutting,230371,281,10,2014,2019,Mumbai Indians/Rajasthan Royals/Sunrisers Hyderabad,yes
+0a67aec0,Akash Deep,Akash Deep,Akash Deep,1176959,278,10,2022,2025,Lucknow Super Giants/Royal Challengers Bengaluru,yes
+88fccd6c,SM Pollock,SM Pollock,SM Pollock,46774,276,11,2008,2008,Mumbai Indians,yes
+725529bc,SC Ganguly,SC Ganguly,SC Ganguly,28779,276,10,2008,2012,Kolkata Knight Riders/Pune Warriors,yes
+3204c99f,G Coetzee,G Coetzee,G Coetzee,596010,273,15,2024,2025,Gujarat Titans/Mumbai Indians,yes
+133bbd61,Brijesh Sharma,Brijesh Sharma,Brijesh Sharma,1515046,273,14,2026,2026,Rajasthan Royals,yes
+5bdcdb72,TM Dilshan,TM Dilshan,TM Dilshan,48472,271,5,2008,2013,Delhi Capitals/Royal Challengers Bengaluru,yes
+ef5da05c,AG Murtaza,AG Murtaza,AG Murtaza,26490,264,9,2010,2013,Mumbai Indians/Pune Warriors,yes
+d68e7f48,R Rampaul,R Rampaul,R Rampaul,52912,262,14,2013,2014,Royal Challengers Bengaluru,yes
+1c2a64cd,A Ashish Reddy,A Ashish Reddy,A Ashish Reddy,389605,262,18,2012,2016,Deccan Chargers/Sunrisers Hyderabad,yes
+3b53243a,XC Bartlett,XC Bartlett,XC Bartlett,1050545,261,7,2025,2026,Punjab Kings,yes
+76388dc8,S Badree,S Badree,S Badree,51433,258,11,2013,2017,Chennai Super Kings/Rajasthan Royals/Royal Challengers Bengaluru,yes
+9f961c14,Joginder Sharma,Joginder Sharma,Joginder Sharma,29976,256,12,2008,2011,Chennai Super Kings,yes
+e342e5fb,CR Brathwaite,CR Brathwaite,CR Brathwaite,457249,254,13,2016,2019,Delhi Capitals/Kolkata Knight Riders/Sunrisers Hyderabad,yes
+e9c7f0d0,Fazalhaq Farooqi,Fazalhaq Farooqi,Fazalhaq Farooqi,974175,254,6,2022,2025,Rajasthan Royals/Sunrisers Hyderabad,yes
+280fff14,Sakib Hussain,Sakib Hussain,Sakib Hussain,1340422,252,15,2026,2026,Sunrisers Hyderabad,yes
+ba607b88,V Kohli,V Kohli,V Kohli,253802,251,4,2008,2016,Royal Challengers Bengaluru,yes
+29d72eb2,AA Chavan,AA Chavan,AA Chavan,337913,248,8,2011,2013,Rajasthan Royals,yes
+b483905d,Akash Singh,Akash Singh,Akash Singh,1175458,247,13,2021,2026,Chennai Super Kings/Lucknow Super Giants/Rajasthan Royals,yes
+64d43928,Sohail Tanvir,Sohail Tanvir,Sohail Tanvir,43265,247,22,2008,2008,Rajasthan Royals,yes
+2e78f685,KR Sen,KR Sen,KR Sen,1163695,241,14,2022,2024,Rajasthan Royals,yes
+ea0cdc12,BAW Mendis,BAW Mendis,BAW Mendis,268739,240,8,2008,2013,Kolkata Knight Riders/Pune Warriors,yes
+30df8c66,Simarjeet Singh,Simarjeet Singh,Simarjeet Singh,1159722,240,11,2022,2025,Chennai Super Kings/Sunrisers Hyderabad,yes
+0994d0ae,V Shankar,V Shankar,V Shankar,477021,238,9,2014,2022,Chennai Super Kings/Delhi Capitals/Gujarat Titans/Sunrisers Hyderabad,yes
+e86754b2,TK Curran,TK Curran,TK Curran,550235,238,13,2018,2021,Delhi Capitals/Kolkata Knight Riders/Rajasthan Royals,yes
+3eac9d95,JDP Oram,JDP Oram,JDP Oram,38062,237,9,2008,2013,Chennai Super Kings/Mumbai Indians/Rajasthan Royals,yes
+c03c6200,DJG Sammy,DJG Sammy,DJG Sammy,53115,236,11,2013,2015,Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+91ffa6c6,JD Ryder,JD Ryder,JD Ryder,38373,236,8,2009,2012,Pune Warriors/Royal Challengers Bengaluru,yes
+99b202b3,A Chandila,A Chandila,A Chandila,27783,234,11,2012,2013,Rajasthan Royals,yes
+b57f8a9a,BJ Hodge,BJ Hodge,BJ Hodge,5674,234,17,2009,2013,Kochi Tuskers Kerala/Kolkata Knight Riders/Rajasthan Royals,yes
+7b44eb3e,Shivang Kumar,Shivang Kumar,Shivang Kumar,1512089,234,9,2026,2026,Sunrisers Hyderabad,yes
+342d8ade,CRD Fernando,CRD Fernando,CRD Fernando,48835,234,17,2008,2010,Mumbai Indians,yes
+9ca68676,AM Ghazanfar,AM Ghazanfar,AM Ghazanfar,1326798,233,15,2026,2026,Mumbai Indians,yes
+83c3e8e3,SH Johnson,SH Johnson,SH Johnson,1123718,230,7,2024,2026,Chennai Super Kings/Gujarat Titans/Kolkata Knight Riders,yes
+a45a5e8d,AM Nayar,AM Nayar,AM Nayar,32091,229,9,2008,2013,Mumbai Indians/Pune Warriors/Punjab Kings,yes
+9061a703,J Little,J Little,J Little,928067,228,11,2023,2024,Gujarat Titans,yes
+350bb1b1,AF Milne,AF Milne,AF Milne,450860,227,7,2016,2026,Chennai Super Kings/Mumbai Indians/Rajasthan Royals/Royal Challengers Bengaluru,yes
+6a26221c,AK Markram,AK Markram,AK Markram,600498,223,6,2021,2026,Lucknow Super Giants/Punjab Kings/Sunrisers Hyderabad,yes
+b1ad996b,MP Yadav,MP Yadav,MP Yadav,1292563,217,9,2024,2026,Lucknow Super Giants,yes
+94d7f855,C de Grandhomme,C de Grandhomme,C de Grandhomme,55395,216,6,2017,2019,Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+7f048519,DJ Willey,DJ Willey,DJ Willey,308251,216,6,2018,2023,Chennai Super Kings/Royal Challengers Bengaluru,yes
+9219eff0,JDS Neesham,JDS Neesham,JDS Neesham,355269,216,8,2014,2022,Delhi Capitals/Mumbai Indians/Punjab Kings/Rajasthan Royals,yes
+edb3d4f8,KC Cariappa,KC Cariappa,KC Cariappa,777537,216,8,2015,2019,Kolkata Knight Riders/Punjab Kings,yes
+fe763256,Y Venugopal Rao,Y Venugopal Rao,Y Venugopal Rao,35805,216,6,2008,2014,Deccan Chargers/Delhi Capitals/Sunrisers Hyderabad,yes
+dec8e038,J Theron,J Theron,J Theron,223642,216,9,2010,2015,Deccan Chargers/Punjab Kings/Rajasthan Royals,yes
+57efa3be,SB Styris,SB Styris,SB Styris,38407,216,8,2008,2011,Chennai Super Kings/Deccan Chargers,yes
+fb2d1dda,N Rana,N Rana,N Rana,604527,216,10,2016,2026,Delhi Capitals/Kolkata Knight Riders/Mumbai Indians/Rajasthan Royals,yes
+d92e42f5,KP Appanna,KP Appanna,KP Appanna,269170,216,9,2009,2012,Royal Challengers Bengaluru,yes
+f846de6a,MN Samuels,MN Samuels,MN Samuels,52983,214,9,2012,2017,Delhi Capitals/Pune Warriors,yes
+f752db61,JL Pattinson,JL Pattinson,JL Pattinson,272465,213,11,2020,2020,Mumbai Indians,yes
+b410bd3d,S Lamichhane,S Lamichhane,S Lamichhane,960361,210,13,2018,2019,Delhi Capitals,yes
+20a941bb,M Ntini,M Ntini,M Ntini,46592,210,7,2008,2008,Chennai Super Kings,yes
+245c97cb,TS Mills,TS Mills,TS Mills,459257,209,11,2017,2022,Mumbai Indians/Royal Challengers Bengaluru,yes
+c24a2c5d,S Tyagi,S Tyagi,S Tyagi,317784,209,6,2009,2010,Chennai Super Kings,yes
+4353bba5,YA Abdulla,YA Abdulla,YA Abdulla,224367,209,15,2009,2010,Punjab Kings,yes
+7ca5e05d,RS Bopara,RS Bopara,RS Bopara,10582,206,11,2009,2015,Punjab Kings/Sunrisers Hyderabad,yes
+5f26df4f,VS Malik,VS Malik,VS Malik,31738,205,6,2009,2014,Punjab Kings/Rajasthan Royals,yes
+59559bc2,J Overton,J Overton,J Overton,510530,204,14,2025,2026,Chennai Super Kings,yes
+1da489ff,S Kaushik,S Kaushik,S Kaushik,917213,204,6,2016,2017,Gujarat Lions,yes
+1647bd37,Karanveer Singh,Karanveer Singh,Karanveer Singh,322535,204,12,2014,2015,Punjab Kings,yes
+0c9652b0,HR Shokeen,HR Shokeen,HR Shokeen,1175423,204,5,2022,2023,Mumbai Indians,yes
+d718440b,V Pratap Singh,V Pratap Singh,V Pratap Singh,528967,204,10,2012,2012,Deccan Chargers,yes
+36619795,Zeeshan Ansari,Zeeshan Ansari,Zeeshan Ansari,942371,203,6,2025,2025,Sunrisers Hyderabad,yes
+9170ff49,Parvez Rasool,Parvez Rasool,Parvez Rasool,378496,198,4,2013,2016,Pune Warriors/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+c64c2443,J Syed Mohammad,J Syed Mohammad,J Syed Mohammad,35261,192,8,2011,2013,Royal Challengers Bengaluru,yes
+4c4fa80b,SMSM Senanayake,SMSM Senanayake,SMSM Senanayake,273439,192,9,2013,2013,Kolkata Knight Riders,yes
+25228673,Harsh Dubey,Harsh Dubey,Harsh Dubey,1216159,192,13,2025,2026,Sunrisers Hyderabad,yes
+e03b66ec,Mohammad Asif,Mohammad Asif,Mohammad Asif,41411,192,8,2008,2008,Delhi Capitals,yes
+9caf69a1,WG Jacks,WG Jacks,WG Jacks,897549,191,10,2024,2026,Mumbai Indians/Royal Challengers Bengaluru,yes
+af7dadf7,B Akhil,B Akhil,B Akhil,26206,188,6,2008,2011,Kochi Tuskers Kerala/Royal Challengers Bengaluru,yes
+cf0ccafa,M Siddharth,M Siddharth,M Siddharth,1151286,186,9,2024,2026,Lucknow Super Giants,yes
+16043342,AB McDonald,AB McDonald,AB McDonald,6553,186,11,2009,2013,Delhi Capitals/Royal Challengers Bengaluru,yes
+4f629497,SE Bond,SE Bond,SE Bond,36326,186,9,2010,2010,Kolkata Knight Riders,yes
+d45c29b1,Ashwani Kumar,Ashwani Kumar,Ashwani Kumar,1209126,183,17,2025,2026,Mumbai Indians,yes
+641ac5ff,IS Sodhi,IS Sodhi,IS Sodhi,559066,181,9,2018,2019,Rajasthan Royals,yes
+ee1b6c27,N Thushara,N Thushara,N Thushara,955235,180,9,2024,2025,Mumbai Indians/Royal Challengers Bengaluru,yes
+b4f5c2d9,KL Nagarkoti,KL Nagarkoti,KL Nagarkoti,1070188,180,5,2020,2022,Delhi Capitals/Kolkata Knight Riders,yes
+0dc00542,Shahid Afridi,Shahid Afridi,Shahid Afridi,42639,180,9,2008,2008,Deccan Chargers,yes
+02dfebbe,Yash Raj Punja,Yash Raj Punja,Yash Raj Punja,1515186,180,9,2026,2026,Rajasthan Royals,yes
+ac5ae4af,I Udana,I Udana,I Udana,328026,174,8,2020,2020,Royal Challengers Bengaluru,yes
+f5f18a18,S Randiv,S Randiv,S Randiv,50438,174,6,2011,2011,Chennai Super Kings,yes
+39f01cdb,KP Pietersen,KP Pietersen,KP Pietersen,19296,174,7,2009,2012,Delhi Capitals/Royal Challengers Bengaluru,yes
+4d7f517e,AJ Hosein,AJ Hosein,AJ Hosein,530812,172,9,2023,2026,Chennai Super Kings/Sunrisers Hyderabad,yes
+b2a79f17,B Laughlin,B Laughlin,B Laughlin,315623,168,10,2013,2018,Chennai Super Kings/Rajasthan Royals,yes
+cdc6bdba,S Sandeep Warrier,S Sandeep Warrier,S Sandeep Warrier,592735,168,8,2019,2024,Gujarat Titans/Kolkata Knight Riders,yes
+172dff15,C Bosch,C Bosch,C Bosch,594322,163,13,2025,2026,Mumbai Indians,yes
+75224f22,KMA Paul,KMA Paul,KMA Paul,677081,163,9,2019,2019,Delhi Capitals,yes
+983f2f61,Swapnil Singh,Swapnil Singh,Swapnil Singh,232292,162,7,2016,2024,Lucknow Super Giants/Punjab Kings/Royal Challengers Bengaluru,yes
+e84ac20c,MJ Henry,MJ Henry,MJ Henry,506612,162,4,2017,2026,Chennai Super Kings/Lucknow Super Giants/Punjab Kings,yes
+e412cb64,HF Gurney,HF Gurney,HF Gurney,244639,162,7,2019,2019,Kolkata Knight Riders,yes
+529eb9e0,OC McCoy,OC McCoy,OC McCoy,906783,161,11,2022,2023,Rajasthan Royals,yes
+6ef60d3a,Kamran Khan,Kamran Khan,Kamran Khan,391121,160,9,2009,2011,Pune Warriors/Rajasthan Royals,yes
+d1c94b25,CK Langeveldt,CK Langeveldt,CK Langeveldt,45963,156,13,2009,2011,Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+ece7b6b3,PP Hinge,PP Hinge,PP Hinge,1216167,156,14,2026,2026,Sunrisers Hyderabad,yes
+a4e37e47,S Dube,S Dube,S Dube,714451,154,6,2019,2026,Chennai Super Kings/Rajasthan Royals/Royal Challengers Bengaluru,yes
+0c432afb,P Parameswaran,P Parameswaran,P Parameswaran,279562,154,9,2011,2012,Kochi Tuskers Kerala/Royal Challengers Bengaluru,yes
+acd4f5dc,DP Vijaykumar,DP Vijaykumar,DP Vijaykumar,272949,152,4,2008,2008,Deccan Chargers,yes
+cc61ee8f,Gurjapneet Singh,Gurjapneet Singh,Gurjapneet Singh,1269869,151,4,2026,2026,Chennai Super Kings,yes
+25eeb281,PC Valthaty,PC Valthaty,PC Valthaty,35630,151,7,2011,2012,Punjab Kings,yes
+fa2f1dde,K Khejroliya,K Khejroliya,K Khejroliya,1083033,151,6,2018,2026,Gujarat Titans/Kolkata Knight Riders/Royal Challengers Bengaluru,yes
+cf73ad76,JEC Franklin,JEC Franklin,JEC Franklin,37004,151,9,2011,2012,Mumbai Indians,yes
+9a963804,LE Plunkett,LE Plunkett,LE Plunkett,19264,150,4,2018,2018,Delhi Capitals,yes
+aaa1b522,TL Suman,TL Suman,TL Suman,34281,150,6,2009,2013,Deccan Chargers/Mumbai Indians/Pune Warriors,yes
+0604ef16,SB Bangar,SB Bangar,SB Bangar,27225,150,4,2008,2008,Deccan Chargers,yes
+260fd380,AM Salvi,AM Salvi,AM Salvi,34264,150,7,2009,2011,Delhi Capitals,yes
+b56dc5f7,BE Hendricks,BE Hendricks,BE Hendricks,379927,150,9,2014,2015,Punjab Kings,yes
+11614d87,D Pretorius,D Pretorius,D Pretorius,327830,150,6,2022,2023,Chennai Super Kings,yes
+d2340a43,Anand Rajan,Anand Rajan,Anand Rajan,26797,149,8,2011,2013,Deccan Chargers/Sunrisers Hyderabad,yes
+dadbdb68,JA Duffy,JA Duffy,JA Duffy,547766,144,9,2026,2026,Royal Challengers Bengaluru,yes
+6834d1f2,B Stanlake,B Stanlake,B Stanlake,533042,144,7,2017,2018,Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+a7c226e1,FH Edwards,FH Edwards,FH Edwards,51782,140,5,2009,2009,Deccan Chargers,yes
+626c5379,R Sathish,R Sathish,R Sathish,33870,139,3,2010,2016,Kolkata Knight Riders/Mumbai Indians/Punjab Kings,yes
+5f4e9e8f,RR Raje,RR Raje,RR Raje,290713,139,6,2008,2009,Mumbai Indians,yes
+fb693839,S Ladda,S Ladda,S Ladda,317292,138,5,2010,2016,Delhi Capitals/Gujarat Lions/Kolkata Knight Riders,yes
+4885bbe6,Yudhvir Singh,Yudhvir Singh,Yudhvir Singh,1206052,138,8,2023,2025,Lucknow Super Giants/Rajasthan Royals,yes
+a316d663,GC Viljoen,GC Viljoen,GC Viljoen,375126,138,7,2019,2019,Punjab Kings,yes
+a457cfb5,Mayank Dagar,Mayank Dagar,Mayank Dagar,942367,137,2,2023,2024,Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+8ba8195d,V Sehwag,V Sehwag,V Sehwag,35263,136,6,2008,2013,Delhi Capitals,yes
+b2ae53f5,T Thushara,T Thushara,T Thushara,49677,135,8,2009,2010,Chennai Super Kings,yes
+16dfcc19,Umar Gul,Umar Gul,Umar Gul,43524,135,12,2008,2008,Kolkata Knight Riders,yes
+798cc28e,KM Asif,KM Asif,KM Asif,1083030,133,7,2018,2023,Chennai Super Kings/Rajasthan Royals,yes
+6ad3a659,P Amarnath,P Amarnath,P Amarnath,290629,132,7,2008,2008,Chennai Super Kings,yes
+50c09020,Ashok Sharma,Ashok Sharma,Ashok Sharma,1299879,126,6,2026,2026,Gujarat Titans,yes
+a1d053dd,SS Cottrell,SS Cottrell,SS Cottrell,495551,120,6,2020,2020,Punjab Kings,yes
+8db7f47f,RJW Topley,RJW Topley,RJW Topley,461632,120,5,2023,2025,Mumbai Indians/Royal Challengers Bengaluru,yes
+de4b0555,R Shukla,R Shukla,R Shukla,390547,120,5,2012,2014,Delhi Capitals/Mumbai Indians/Rajasthan Royals,yes
+8d92a2c3,MA Wood,MA Wood,MA Wood,351588,120,11,2018,2023,Chennai Super Kings/Lucknow Super Giants,yes
+a03bba42,T Shamsi,T Shamsi,T Shamsi,379145,120,3,2016,2021,Rajasthan Royals/Royal Challengers Bengaluru,yes
+4180d897,JE Taylor,JE Taylor,JE Taylor,53191,117,6,2011,2011,Pune Warriors,yes
+6f49cc6e,Shivam Sharma,Shivam Sharma,Shivam Sharma,717201,114,4,2014,2015,Punjab Kings,yes
+8291f939,AL Menaria,AL Menaria,AL Menaria,371150,110,3,2011,2012,Rajasthan Royals,yes
+f18ba07f,Ankit Soni,Ankit Soni,Ankit Soni,1083128,109,2,2017,2017,Gujarat Lions,yes
+d4eef961,M de Lange,M de Lange,M de Lange,393279,108,5,2012,2015,Kolkata Knight Riders/Mumbai Indians,yes
+287686fd,S Narwal,S Narwal,S Narwal,32084,106,5,2010,2013,Kolkata Knight Riders/Rajasthan Royals,yes
+9a0146b3,P Sahu,P Sahu,P Sahu,34155,105,3,2016,2016,Punjab Kings,yes
+d7b3a420,Jaskaran Singh,Jaskaran Singh,Jaskaran Singh,376102,102,6,2009,2010,Deccan Chargers,yes
+469ea22b,KMDN Kulasekara,KMDN Kulasekara,KMDN Kulasekara,49535,102,5,2011,2012,Chennai Super Kings,yes
+dddca1d6,SB Wagh,SB Wagh,SB Wagh,279552,102,5,2010,2011,Pune Warriors/Rajasthan Royals,yes
+8a668774,Shoaib Ahmed,Shoaib Ahmed,Shoaib Ahmed,317709,102,5,2009,2009,Deccan Chargers,yes
+18e6906e,A Choudhary,A Choudhary,A Choudhary,527299,101,5,2017,2017,Royal Challengers Bengaluru,yes
+44aac2f0,Arjun Tendulkar,Arjun Tendulkar,Arjun Tendulkar,1148776,97,4,2023,2026,Lucknow Super Giants/Mumbai Indians,yes
+b2570b38,RV Gomez,RV Gomez,RV Gomez,28846,96,5,2011,2013,Kochi Tuskers Kerala/Pune Warriors,yes
+cedc1d9a,P Suyal,P Suyal,P Suyal,431213,96,2,2013,2015,Mumbai Indians,yes
+a9da7784,KJ Abbott,KJ Abbott,KJ Abbott,297583,96,2,2016,2016,Punjab Kings,yes
+be869ccf,GHS Garton,GHS Garton,GHS Garton,643433,90,3,2021,2021,Royal Challengers Bengaluru,yes
+5b615e7c,Raghu Sharma,Raghu Sharma,Raghu Sharma,1122621,90,1,2026,2026,Mumbai Indians,yes
+26989d80,Shashank Singh,Shashank Singh,Shashank Singh,377534,90,5,2022,2026,Punjab Kings/Sunrisers Hyderabad,yes
+23cca426,OF Smith,OF Smith,OF Smith,820691,90,6,2022,2022,Punjab Kings,yes
+da934ee8,MK Lomror,MK Lomror,MK Lomror,853265,90,1,2018,2024,Rajasthan Royals/Royal Challengers Bengaluru,yes
+1ee08e9a,JA Richardson,JA Richardson,JA Richardson,774223,90,3,2021,2024,Delhi Capitals/Punjab Kings,yes
+b52ffbbd,FA Allen,FA Allen,FA Allen,670013,90,2,2021,2022,Mumbai Indians/Punjab Kings,yes
+a386e91b,PD Collingwood,PD Collingwood,PD Collingwood,10772,89,5,2010,2010,Delhi Capitals,yes
+2815fe50,AA Jhunjhunwala,AA Jhunjhunwala,AA Jhunjhunwala,29702,85,1,2010,2012,Deccan Chargers/Pune Warriors/Rajasthan Royals,yes
+890de8cb,Gagandeep Singh,Gagandeep Singh,Gagandeep Singh,28758,84,3,2008,2008,Punjab Kings,yes
+26d041c4,Sikandar Raza,Sikandar Raza,Sikandar Raza,299572,84,3,2023,2024,Punjab Kings,yes
+cd8d2859,DG Nalkande,DG Nalkande,DG Nalkande,1111917,84,6,2022,2024,Gujarat Titans,yes
+2c76b512,DJ Muthuswami,DJ Muthuswami,DJ Muthuswami,528985,84,4,2015,2015,Delhi Capitals,yes
+a24be938,VR Iyer,VR Iyer,VR Iyer,851403,81,3,2021,2024,Kolkata Knight Riders,yes
+7c3c0337,Auqib Nabi,Auqib Nabi,Auqib Nabi,1159732,78,0,2026,2026,Delhi Capitals,yes
+4ec07775,RN ten Doeschate,RN ten Doeschate,RN ten Doeschate,47660,78,2,2011,2015,Kolkata Knight Riders,yes
+ed5a5510,P Dubey,P Dubey,P Dubey,777515,78,2,2020,2025,Delhi Capitals/Punjab Kings,yes
+6eb146d2,Gurkeerat Singh,Gurkeerat Singh,Gurkeerat Singh,537124,78,5,2015,2016,Punjab Kings,yes
+11061889,SR Dubey,SR Dubey,SR Dubey,1206492,77,5,2026,2026,Kolkata Knight Riders,yes
+3dba85c2,WA Mota,WA Mota,WA Mota,31041,72,4,2008,2009,Punjab Kings,yes
+6821ac10,JJ van der Wath,JJ van der Wath,JJ van der Wath,47693,72,3,2011,2011,Royal Challengers Bengaluru,yes
+1e030637,V Puthur,V Puthur,V Puthur,1460388,72,6,2025,2025,Mumbai Indians,yes
+cca50cd6,LJ Wright,LJ Wright,LJ Wright,23460,71,2,2012,2013,Pune Warriors,yes
+2f3817ce,TP Sudhindra,TP Sudhindra,TP Sudhindra,34139,70,1,2012,2012,Deccan Chargers,yes
+402f8494,RJ Gleeson,RJ Gleeson,RJ Gleeson,473191,68,2,2024,2025,Chennai Super Kings/Mumbai Indians,yes
+dbc50253,AP Dole,AP Dole,AP Dole,236694,66,5,2010,2010,Rajasthan Royals,yes
+e38bce7a,MG Bracewell,MG Bracewell,MG Bracewell,326968,66,6,2023,2023,Royal Challengers Bengaluru,yes
+a1f1829d,K Goel,K Goel,K Goel,28997,66,0,2008,2010,Punjab Kings,yes
+f842c2cf,MJ Clarke,MJ Clarke,MJ Clarke,4578,66,2,2012,2012,Pune Warriors,yes
+107c26fb,KT Maphaka,KT Maphaka,KT Maphaka,1294342,66,2,2024,2025,Mumbai Indians/Rajasthan Royals,yes
+662c47a6,Y Nagar,Y Nagar,Y Nagar,317786,66,4,2009,2012,Delhi Capitals,yes
+e0351c86,DNT Zoysa,DNT Zoysa,DNT Zoysa,51050,66,2,2008,2008,Deccan Chargers,yes
+ddc0828d,A Flintoff,A Flintoff,A Flintoff,12856,66,2,2009,2009,Chennai Super Kings,yes
+12b610c2,TM Head,TM Head,TM Head,530011,64,3,2017,2026,Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+cb9b8664,W O'Rourke,W O'Rourke,W O'Rourke,1211825,62,6,2025,2025,Lucknow Super Giants,yes
+03a83c50,V Viyaskanth,V Viyaskanth,V Viyaskanth,1153149,60,1,2024,2024,Sunrisers Hyderabad,yes
+63bff7f9,SM Harwood,SM Harwood,SM Harwood,5605,60,3,2009,2009,Rajasthan Royals,yes
+c6097d68,O Thomas,O Thomas,O Thomas,914567,60,5,2019,2019,Rajasthan Royals,yes
+9ab63e7b,Mohammad Hafeez,Mohammad Hafeez,Mohammad Hafeez,41434,60,2,2008,2008,Kolkata Knight Riders,yes
+fb5f69e4,M Tiwari,M Tiwari,M Tiwari,1460385,60,4,2026,2026,Delhi Capitals,yes
+249d60c9,AU Rashid,AU Rashid,AU Rashid,244497,60,2,2021,2023,Punjab Kings/Sunrisers Hyderabad,yes
+012829ff,JW Hastings,JW Hastings,JW Hastings,228622,58,3,2014,2016,Chennai Super Kings/Kolkata Knight Riders,yes
+82c10dac,Abhinandan Singh,Abhinandan Singh,Abhinandan Singh,1449085,58,3,2026,2026,Royal Challengers Bengaluru,yes
+8e514b4c,Abdul Samad,Abdul Samad,Abdul Samad,1175485,57,2,2020,2026,Lucknow Super Giants/Sunrisers Hyderabad,yes
+be24ead0,Ramandeep Singh,Ramandeep Singh,Ramandeep Singh,1079470,56,7,2022,2026,Kolkata Knight Riders/Mumbai Indians,yes
+6ec424a9,ND Doshi,ND Doshi,ND Doshi,12440,56,2,2010,2011,Rajasthan Royals/Royal Challengers Bengaluru,yes
+670709ec,SB Joshi,SB Joshi,SB Joshi,29725,55,1,2008,2008,Royal Challengers Bengaluru,yes
+030f3089,K Yadav,K Yadav,K Yadav,1206495,54,2,2021,2023,Rajasthan Royals,yes
+864c199e,AC Voges,AC Voges,AC Voges,8119,54,0,2010,2010,Rajasthan Royals,yes
+1a2676c5,SA Abbott,SA Abbott,SA Abbott,398666,54,1,2015,2022,Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+27e71d47,K Upadhyay,K Upadhyay,K Upadhyay,431876,54,0,2012,2013,Pune Warriors,yes
+fffa744b,Naman Dhir,Naman Dhir,Naman Dhir,1287032,52,0,2024,2025,Mumbai Indians,yes
+64c34cd0,Shoaib Malik,Shoaib Malik,Shoaib Malik,42657,51,2,2008,2008,Delhi Capitals,yes
+78eb4223,KAJ Roach,KAJ Roach,KAJ Roach,230553,48,0,2010,2010,Deccan Chargers,yes
+fef92afc,SC Kuggeleijn,SC Kuggeleijn,SC Kuggeleijn,539548,48,2,2019,2019,Chennai Super Kings,yes
+0a476045,S Dhawan,S Dhawan,S Dhawan,28235,48,4,2011,2012,Deccan Chargers,yes
+025c4400,MJ Suthar,MJ Suthar,MJ Suthar,1175426,48,2,2024,2026,Gujarat Titans,yes
+26ff4c29,RJ Peterson,RJ Peterson,RJ Peterson,46750,48,3,2012,2012,Mumbai Indians,yes
+50758325,B Geeves,B Geeves,B Geeves,5472,48,1,2008,2008,Delhi Capitals,yes
+94bc776b,D Kalyankrishna,D Kalyankrishna,D Kalyankrishna,30719,48,2,2008,2008,Deccan Chargers,yes
+531f0278,K Santokie,K Santokie,K Santokie,314622,48,3,2014,2014,Mumbai Indians,yes
+eade4650,DJ Mitchell,DJ Mitchell,DJ Mitchell,381743,48,1,2022,2024,Chennai Super Kings/Rajasthan Royals,yes
+f24ca2ba,C Nanda,C Nanda,C Nanda,32093,48,2,2009,2009,Mumbai Indians,yes
+1558d83b,GS Sandhu,GS Sandhu,GS Sandhu,499660,48,1,2015,2015,Delhi Capitals,yes
+0264c10e,D Salunkhe,D Salunkhe,D Salunkhe,278482,47,1,2008,2008,Rajasthan Royals,yes
+6581d753,JM Kemp,JM Kemp,JM Kemp,45797,44,3,2010,2010,Chennai Super Kings,yes
+b8d490fd,AJ Finch,AJ Finch,AJ Finch,5334,43,1,2010,2013,Delhi Capitals/Pune Warriors/Rajasthan Royals,yes
+a90e53ec,MW Short,MW Short,MW Short,605575,43,0,2023,2026,Chennai Super Kings/Punjab Kings,yes
+26e5cabf,MK Tiwary,MK Tiwary,MK Tiwary,35565,42,1,2009,2018,Delhi Capitals/Kolkata Knight Riders/Punjab Kings,yes
+7d3937ed,DJ Thornely,DJ Thornely,DJ Thornely,8002,42,3,2008,2008,Mumbai Indians,yes
+10a91f35,Shoaib Akhtar,Shoaib Akhtar,Shoaib Akhtar,42655,42,5,2008,2008,Kolkata Knight Riders,yes
+94253925,GH Vihari,GH Vihari,GH Vihari,452044,42,1,2013,2019,Delhi Capitals/Sunrisers Hyderabad,yes
+94eac556,CJ McKay,CJ McKay,CJ McKay,6903,42,1,2012,2012,Mumbai Indians,yes
+c42aaf71,M Manhas,M Manhas,M Manhas,31001,42,0,2011,2011,Pune Warriors,yes
+99ed60f8,JPR Scantlebury-Searles,JPR Scantlebury-Searles,JPR Scantlebury-Searles,230554,42,2,2018,2018,Kolkata Knight Riders,yes
+08548b13,PHKD Mendis,PHKD Mendis,PHKD Mendis,784373,42,2,2025,2025,Sunrisers Hyderabad,yes
+8b9704ae,L Ablish,L Ablish,L Ablish,26236,42,3,2010,2011,Punjab Kings,yes
+d167edd3,SM Boland,SM Boland,SM Boland,446548,42,2,2016,2016,Rising Pune Supergiant,yes
+d0513f63,CL White,CL White,CL White,8291,42,1,2008,2013,Deccan Chargers/Royal Challengers Bengaluru/Sunrisers Hyderabad,yes
+449f4e3c,B Muzarabani,B Muzarabani,B Muzarabani,827051,42,4,2026,2026,Kolkata Knight Riders,yes
+73c18486,KR Mayers,KR Mayers,KR Mayers,348056,42,0,2023,2023,Lucknow Super Giants,yes
+d7a57f75,D du Preez,D du Preez,D du Preez,44938,42,4,2009,2009,Royal Challengers Bengaluru,yes
+d014d5ac,SE Rutherford,SE Rutherford,SE Rutherford,914541,41,1,2019,2019,Delhi Capitals,yes
+872b03f7,A Badoni,A Badoni,A Badoni,1151270,41,4,2022,2026,Lucknow Super Giants,yes
+3ae3f034,AUK Pathan,AUK Pathan,AUK Pathan,430401,39,0,2011,2012,Royal Challengers Bengaluru,yes
+92500ad5,SS Mishra,SS Mishra,SS Mishra,1175457,38,2,2026,2026,Rajasthan Royals,yes
+e5437608,GF Linde,GF Linde,GF Linde,481875,37,1,2026,2026,Lucknow Super Giants,yes
+fdcb08c2,A Uniyal,A Uniyal,A Uniyal,35586,36,2,2010,2010,Rajasthan Royals,yes
+d2c2b2d5,SR Tendulkar,SR Tendulkar,SR Tendulkar,35320,36,0,2009,2009,Mumbai Indians,yes
+e48a4814,Krish Bhagat,Krish Bhagat,Krish Bhagat,1454586,36,0,2026,2026,Mumbai Indians,yes
+85b3fab2,T Stubbs,T Stubbs,T Stubbs,595978,36,4,2023,2025,Delhi Capitals/Mumbai Indians,yes
+4b57e452,M Vijay,M Vijay,M Vijay,237095,36,0,2014,2016,Delhi Capitals/Punjab Kings,yes
+0b60eb09,KA Maharaj,KA Maharaj,KA Maharaj,267724,36,2,2024,2024,Rajasthan Royals,yes
+facb9086,SD Chitnis,SD Chitnis,SD Chitnis,337916,36,2,2008,2008,Mumbai Indians,yes
+ce4cc4d5,R Ninan,R Ninan,R Ninan,353669,36,3,2011,2011,Royal Challengers Bengaluru,yes
+65b6943c,L Wood,L Wood,L Wood,573170,36,1,2024,2024,Mumbai Indians,yes
+a1d95bd8,LB Williams,LB Williams,LB Williams,379887,36,1,2024,2024,Delhi Capitals,yes
+3ff033bb,MD Shanaka,MD Shanaka,MD Shanaka,437316,36,1,2026,2026,Rajasthan Royals,yes
+0a4ebc61,T Henderson,T Henderson,T Henderson,45434,36,1,2009,2009,Rajasthan Royals,yes
+8361e524,SSB Magala,SSB Magala,SSB Magala,379776,36,1,2023,2023,Chennai Super Kings,yes
+c695b423,PH Solanki,PH Solanki,PH Solanki,1252337,36,2,2022,2022,Chennai Super Kings,yes
+c3c92b42,RS Hangargekar,RS Hangargekar,RS Hangargekar,1175429,36,3,2023,2023,Chennai Super Kings,yes
+b2b23612,RG More,RG More,RG More,424219,35,1,2015,2015,Chennai Super Kings,yes
+0d232ffd,MA Khote,MA Khote,MA Khote,30220,30,2,2008,2008,Mumbai Indians,yes
+52294a79,H Sharma,H Sharma,H Sharma,1350761,30,0,2023,2024,Royal Challengers Bengaluru,yes
+9a46c4e5,GD Phillips,GD Phillips,GD Phillips,823509,30,2,2021,2023,Rajasthan Royals/Sunrisers Hyderabad,yes
+c69a7b5c,AS Raut,AS Raut,AS Raut,230593,30,0,2009,2011,Rajasthan Royals,yes
+4b4d1957,PM Sarvesh Kumar,PM Sarvesh Kumar,PM Sarvesh Kumar,327127,30,1,2008,2008,Deccan Chargers,yes
+9868bc75,BMAJ Mendis,BMAJ Mendis,BMAJ Mendis,49700,30,1,2013,2013,Delhi Capitals,yes
+cfa4bd2b,Y Prithvi Raj,Y Prithvi Raj,Y Prithvi Raj,1121579,30,1,2019,2019,Kolkata Knight Riders,yes
+6c79c098,DA Payne,DA Payne,DA Payne,362710,30,2,2026,2026,Sunrisers Hyderabad,yes
+38f2c66c,VS Yeligati,VS Yeligati,VS Yeligati,307448,30,0,2008,2008,Mumbai Indians,yes
+5673a3fc,NL McCullum,NL McCullum,NL McCullum,37749,30,0,2011,2011,Pune Warriors,yes
+9d704f6f,SZ Mulani,SZ Mulani,SZ Mulani,1131607,30,0,2024,2024,Mumbai Indians,yes
+caa89a48,SS Sarkar,SS Sarkar,SS Sarkar,34402,25,1,2009,2009,Kolkata Knight Riders,yes
+8dc152d1,D Jansen,D Jansen,Duan Jansen,595954,24,1,2023,2023,Mumbai Indians,yes
+de7d833e,D Madushanka,D Madushanka,D Madushanka,793007,24,1,2026,2026,Sunrisers Hyderabad,yes
+611926bc,GR Napier,GR Napier,GR Napier,17991,24,1,2009,2009,Mumbai Indians,yes
+441c72ae,P Ray Barman,P Ray Barman,P Ray Barman,1159712,24,0,2019,2019,Royal Challengers Bengaluru,yes
+ba6b2f91,RA Bawa,RA Bawa,RA Bawa,1292502,24,2,2026,2026,Mumbai Indians,yes
+0bf15e52,Harmeet Singh,Harmeet Singh,Harmeet Singh (2),422847,24,1,2013,2013,Rajasthan Royals,yes
+e1b9f3a9,BJ Dwarshuis,BJ Dwarshuis,BJ Dwarshuis,679567,24,1,2026,2026,Punjab Kings,yes
+b822e99c,NB Singh,NB Singh,NB Singh,853259,24,1,2017,2017,Gujarat Lions,yes
+c27b5a0e,PVSN Raju,PVSN Raju,PVSN Raju,1392201,24,1,2025,2025,Mumbai Indians,yes
+0164b064,MG Neser,MG Neser,MG Neser,376169,24,0,2013,2013,Punjab Kings,yes
+b69e69ed,AA Noffke,AA Noffke,AA Noffke,6938,24,1,2008,2008,Royal Challengers Bengaluru,yes
+266849c1,R Goyal,R Goyal,R Goyal,1350770,24,0,2023,2023,Mumbai Indians,yes
+d4d929b0,V Kaverappa,V Kaverappa,V Kaverappa,1155262,24,2,2024,2024,Punjab Kings,yes
+5b16a806,A Dananjaya,A Dananjaya,A Dananjaya,574178,24,0,2018,2018,Mumbai Indians,yes
+2e9fdf9b,DAJ Bracewell,DAJ Bracewell,DAJ Bracewell,362541,24,3,2012,2012,Delhi Capitals,yes
+b51f72a5,SS Agarwal,SS Agarwal,SS Agarwal,1079668,24,1,2017,2017,Gujarat Lions,yes
+fdf7491e,IC Porel,IC Porel,IC Porel,967603,24,1,2021,2021,Punjab Kings,yes
+e186f49c,Mashrafe Mortaza,Mashrafe Mortaza,Mashrafe Mortaza,56007,24,0,2009,2009,Kolkata Knight Riders,yes
+97290faf,S Joseph,S Joseph,S Joseph,1356971,24,0,2024,2024,Lucknow Super Giants,yes
+b0482a1d,Tilak Varma,Tilak Varma,Tilak Varma,1170265,22,0,2022,2024,Mumbai Indians,yes
+c28e9f12,Tejas Baroka,Tejas Baroka,Tejas Baroka,1082859,21,0,2017,2017,Gujarat Lions,yes
+8998a68f,Sumit Kumar,Sumit Kumar,Sumit Kumar,1159734,20,0,2024,2024,Delhi Capitals,yes
+970ddd24,Suryansh Shedge,Suryansh Shedge,Suryansh Shedge,1339698,18,0,2025,2025,Punjab Kings,yes
+89f64c19,LMP Simmons,LMP Simmons,LMP Simmons,53116,18,1,2014,2014,Mumbai Indians,yes
+86ae8ef2,MB Parmar,MB Parmar,MB Parmar,240734,18,0,2010,2010,Kolkata Knight Riders,yes
+dee07622,RS Ghosh,RS Ghosh,RS Ghosh,1339053,18,1,2026,2026,Chennai Super Kings,yes
+f0af99a7,D Ferreira,D Ferreira,D Ferreira,698315,18,1,2026,2026,Rajasthan Royals,yes
+b720a5d6,DB Ravi Teja,DB Ravi Teja,DB Ravi Teja,237701,18,1,2008,2011,Deccan Chargers,yes
+60500956,RV Patel,RV Patel,RV Patel,1201520,18,0,2021,2021,Delhi Capitals,yes
+ee3dfa89,Sunny Gupta,Sunny Gupta,Sunny Gupta,271315,18,0,2012,2012,Delhi Capitals,yes
+1cb14aa4,CJ Dala,CJ Dala,CJ Dala,545467,18,0,2018,2018,Delhi Capitals,yes
+2503e881,A Nel,A Nel,A Nel,46569,18,1,2008,2008,Mumbai Indians,yes
+d3611425,LI Meriwala,LI Meriwala,LI Meriwala,573930,18,1,2021,2021,Delhi Capitals,yes
+249abedf,Jalaj S Saxena,Jalaj S Saxena,Jalaj S Saxena,237199,18,0,2021,2021,Punjab Kings,yes
+650d5e49,R Powell,R Powell,R Powell,820351,18,1,2022,2023,Delhi Capitals,yes
+7dcb9bc9,M Shahrukh Khan,M Shahrukh Khan,M Shahrukh Khan,719719,18,1,2024,2025,Gujarat Titans,yes
+1b7b0fa7,Vivrant Sharma,Vivrant Sharma,Vivrant Sharma,1252370,18,0,2023,2023,Sunrisers Hyderabad,yes
+67af6f81,RW Price,RW Price,RW Price,55698,18,0,2011,2011,Mumbai Indians,yes
+6042bf26,NJ Rimmington,NJ Rimmington,NJ Rimmington,7443,18,0,2011,2011,Punjab Kings,yes
+d027ba9f,KS Williamson,KS Williamson,KS Williamson,277906,18,0,2016,2020,Sunrisers Hyderabad,yes
+39f82db3,DJ Harris,DJ Harris,DJ Harris,5583,18,0,2012,2012,Deccan Chargers,yes
+99258814,Gurnoor Brar,Gurnoor Brar,Gurnoor Brar,1287033,18,0,2023,2023,Punjab Kings,yes
+1a156c88,DJM Short,DJM Short,DJM Short,308798,18,1,2018,2018,Rajasthan Royals,yes
+64a4c383,S Sriram,S Sriram,S Sriram,34118,18,0,2010,2011,Delhi Capitals/Royal Challengers Bengaluru,yes
+cfad138c,CK Kapugedera,CK Kapugedera,CK Kapugedera,209457,17,0,2008,2008,Chennai Super Kings,yes
+d1a60072,N Wadhera,N Wadhera,N Wadhera,1151273,17,0,2024,2025,Mumbai Indians/Punjab Kings,yes
+19b9f399,CJ Green,CJ Green,CJ Green,787073,17,0,2020,2020,Kolkata Knight Riders,yes
+90edaaa9,S Rana,S Rana,S Rana,33757,16,0,2011,2014,Pune Warriors/Royal Challengers Bengaluru,yes
+e148e6bd,PR Veer,PR Veer,PR Veer,1403197,12,0,2026,2026,Chennai Super Kings,yes
+21ac077a,RR Bose,RR Bose,RR Bose,27572,12,0,2009,2009,Punjab Kings,yes
+c3a96caf,Mandeep Singh,Mandeep Singh,Mandeep Singh,398506,12,0,2019,2019,Punjab Kings,yes
+af2c687b,C Munro,C Munro,C Munro,232359,12,0,2016,2016,Kolkata Knight Riders,yes
+c15e2193,FY Fazal,FY Fazal,FY Fazal,28671,12,0,2010,2010,Rajasthan Royals,yes
+16605a1b,AA Kazi,AA Kazi,AA Kazi,422106,12,0,2011,2011,Royal Challengers Bengaluru,yes
+b61a3e1a,LRPL Taylor,LRPL Taylor,LRPL Taylor,38699,12,0,2009,2011,Rajasthan Royals/Royal Challengers Bengaluru,yes
+ba5e1069,R Ravindra,R Ravindra,R Ravindra,959767,12,0,2024,2024,Chennai Super Kings,yes
+fb24e76c,Monu Kumar,Monu Kumar,Monu Kumar,694209,12,0,2020,2020,Chennai Super Kings,yes
+756389bd,S Vidyut,S Vidyut,S Vidyut,35619,12,1,2008,2008,Chennai Super Kings,yes
+888e32bf,Abdur Razzak,Abdur Razzak,Abdur Razzak,56283,12,0,2008,2008,Royal Challengers Bengaluru,yes
+51ec3919,T Vijay,T Vijay,T Vijay,1292527,12,0,2026,2026,Delhi Capitals,yes
+7d3720ba,RR Bhatkal,RR Bhatkal,RR Bhatkal,27150,12,0,2012,2012,Royal Challengers Bengaluru,yes
+9a5f2863,Mohit Rathee,Mohit Rathee,Mohit Rathee,1349361,12,0,2023,2023,Punjab Kings,yes
+ade90de7,S Midhun,S Midhun,S Midhun,1131619,12,0,2019,2019,Rajasthan Royals,yes
+33ffc3dd,R Sanjay Yadav,R Sanjay Yadav,R Sanjay Yadav,1048841,12,0,2022,2022,Mumbai Indians,yes
+a343262c,JE Root,JE Root,JE Root,303669,12,0,2023,2023,Rajasthan Royals,yes
+d621b427,Musheer Khan,Musheer Khan,Musheer Khan,1316430,12,1,2025,2025,Punjab Kings,yes
+dc9dd038,Sachin Baby,Sachin Baby,Sachin Baby,432783,10,2,2016,2016,Royal Challengers Bengaluru,yes
+29e95537,AM Rahane,AM Rahane,AM Rahane,277916,6,1,2009,2009,Mumbai Indians,yes
+9ff100a6,RS Gavaskar,RS Gavaskar,RS Gavaskar,28792,6,0,2010,2010,Kolkata Knight Riders,yes
+0af3426f,SS Mundhe,SS Mundhe,SS Mundhe,279862,6,1,2011,2011,Pune Warriors,yes
+378daa89,Aman Hakim Khan,Aman Hakim Khan,Aman Hakim Khan,1254269,6,0,2022,2022,Kolkata Knight Riders,yes
+943fd425,I Malhotra,I Malhotra,I Malhotra,31088,6,0,2011,2011,Deccan Chargers,yes
+5451a2c1,B Chipli,B Chipli,B Chipli,27685,6,0,2011,2011,Deccan Chargers,yes
+c96f6ac5,PWA Mulder,PWA Mulder,PWA Mulder,698189,6,0,2025,2025,Sunrisers Hyderabad,yes
+77255a9e,RA Tripathi,RA Tripathi,RA Tripathi,446763,6,0,2017,2017,Rising Pune Supergiant,yes
+27af6414,BJ Rohrer,BJ Rohrer,BJ Rohrer,7547,6,0,2013,2013,Delhi Capitals,yes
+7c390b03,RA Shaikh,RA Shaikh,RA Shaikh,279460,6,0,2009,2009,Mumbai Indians,yes
+798934ea,C Ganapathy,C Ganapathy,C Ganapathy,28764,6,0,2010,2010,Chennai Super Kings,yes
+85ec8e33,SS Iyer,SS Iyer,SS Iyer,642519,6,0,2022,2022,Kolkata Knight Riders,yes
+271f83cd,SA Yadav,SA Yadav,SA Yadav,446507,6,0,2014,2014,Kolkata Knight Riders,yes
+9f77963a,Gulbadin Naib,Gulbadin Naib,Gulbadin Naib,352048,6,0,2024,2024,Delhi Capitals,yes
+f1f99156,TH David,TH David,TH David,892749,6,0,2026,2026,Royal Challengers Bengaluru,yes
+3355b542,F du Plessis,F du Plessis,F du Plessis,44828,6,0,2012,2012,Chennai Super Kings,yes
+ddb00822,P Prasanth,P Prasanth,P Prasanth,32211,6,0,2011,2011,Kochi Tuskers Kerala,yes
+bae11797,Y Gnaneswara Rao,Y Gnaneswara Rao,Y Gnaneswara Rao,28830,6,0,2011,2011,Kochi Tuskers Kerala,yes
+d872f52a,LA Carseldine,LA Carseldine,LA Carseldine,4541,6,1,2009,2009,Rajasthan Royals,yes
+1be70c88,LPC Silva,LPC Silva,LPC Silva,50431,6,0,2008,2008,Deccan Chargers,yes
+62175638,Karim Janat,Karim Janat,Karim Janat,793467,6,0,2025,2025,Gujarat Titans,yes
+844e79d1,D Brevis,D Brevis,D Brevis,1070665,3,1,2022,2022,Mumbai Indians,yes
+30a45b23,SPD Smith,SPD Smith,SPD Smith,267192,2,0,2012,2012,Pune Warriors,yes
+f088b960,SN Khan,SN Khan,SN Khan,642525,2,0,2019,2019,Punjab Kings,yes
+dcce6f09,DA Warner,DA Warner,DA Warner,219889,1,0,2020,2020,Sunrisers Hyderabad,yes
+1ac746c8,Atharva Taide,Atharva Taide,Atharva Taide,1125958,1,0,2024,2024,Punjab Kings,yes
+2b6e6dec,AC Gilchrist,AC Gilchrist,AC Gilchrist,5390,1,1,2013,2013,Punjab Kings,yes
+6c19c6e5,YBK Jaiswal,YBK Jaiswal,YBK Jaiswal,1151278,1,0,2022,2022,Rajasthan Royals,yes
+752f7486,Ishan Kishan,Ishan Kishan,Ishan Kishan,720471,1,0,2025,2025,Sunrisers Hyderabad,yes
